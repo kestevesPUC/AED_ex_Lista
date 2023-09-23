@@ -1,0 +1,7 @@
+C:\Users\Kaio\source\repos\atvdd_21-09-2023\atvdd_21-09-2023\bin\Debug\atvdd_21-09-2023.exe.config
+C:\Users\Kaio\source\repos\atvdd_21-09-2023\atvdd_21-09-2023\bin\Debug\atvdd_21-09-2023.exe
+C:\Users\Kaio\source\repos\atvdd_21-09-2023\atvdd_21-09-2023\bin\Debug\atvdd_21-09-2023.pdb
+C:\Users\Kaio\source\repos\atvdd_21-09-2023\atvdd_21-09-2023\obj\Debug\atvdd_21-09-2023.csproj.AssemblyReference.cache
+C:\Users\Kaio\source\repos\atvdd_21-09-2023\atvdd_21-09-2023\obj\Debug\atvdd_21-09-2023.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\source\repos\atvdd_21-09-2023\atvdd_21-09-2023\obj\Debug\atvdd_21-09-2023.exe
+C:\Users\Kaio\source\repos\atvdd_21-09-2023\atvdd_21-09-2023\obj\Debug\atvdd_21-09-2023.pdb
